@@ -5,5 +5,5 @@ ENV PYTHONUNBUFFERED=1
 WORKDIR /code
 COPY requirements.txt /code/
 RUN pip install -r requirements.txt
-CMD ("python","manage.py","runserver")
 COPY . /code/
+CMD ("python","manage.py","runserver")
