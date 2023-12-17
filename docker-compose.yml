@@ -1,0 +1,26 @@
+services:
+  db:
+    image: postgres
+    volumes:
+      - ./data/db:/var/lib/postgresql/data
+    environment:
+      POSTGRES_DB: SNP
+      POSTGRES_USER: AbdulAhad696
+      POSTGRES_PASSWORD: 5XKqf2njySNJ
+
+  web:
+    build: .
+    command: python manage.py runserver 0.0.0.0:8000
+    volumes:
+      - .:/code
+    ports:
+      - "8000:8000"
+    environment:
+      - DB_HOST=ep-morning-pine-88779808-pooler.ap-southeast-1.aws.neon.tech
+      - DB_NAME=SNP
+      - DB_USER=AbdulAhad696
+      - DB_PASSWORD=5XKqf2njySNJ
+      - DB_PORT=5432
+      - DB_SSLMODE=require
+    depends_on:
+      - db

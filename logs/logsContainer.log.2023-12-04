@@ -1,0 +1,39 @@
+[2023-12-03 18:23:33,731] WARNING in pusher_client: Initialising Pusher 2023-12-03 18:23:33.731716 hours!
+[2023-12-03 21:48:21,906] WARNING in views: Accessing objects with User Id2023-12-03 21:48:21.904636 hours!
+[2023-12-03 21:48:22,853] WARNING in views: Error in fetching data from influx2023-12-03 21:48:22.853185 hours!
+[2023-12-03 21:48:32,540] WARNING in views: Accessing objects with User Id2023-12-03 21:48:32.540472 hours!
+[2023-12-03 21:48:32,579] WARNING in views: Error in fetching data from influx2023-12-03 21:48:32.579691 hours!
+[2023-12-03 21:48:42,475] WARNING in views: Accessing objects with User Id2023-12-03 21:48:42.475158 hours!
+[2023-12-03 21:48:42,500] WARNING in views: Error in fetching data from influx2023-12-03 21:48:42.500140 hours!
+[2023-12-03 21:48:52,473] WARNING in views: Accessing objects with User Id2023-12-03 21:48:52.473581 hours!
+[2023-12-03 21:48:52,504] WARNING in views: Error in fetching data from influx2023-12-03 21:48:52.503910 hours!
+[2023-12-03 21:49:02,482] WARNING in views: Accessing objects with User Id2023-12-03 21:49:02.482671 hours!
+[2023-12-03 21:49:02,514] WARNING in views: Error in fetching data from influx2023-12-03 21:49:02.513001 hours!
+[2023-12-03 21:49:12,461] WARNING in views: Accessing objects with User Id2023-12-03 21:49:12.461018 hours!
+[2023-12-03 21:49:12,481] WARNING in views: Error in fetching data from influx2023-12-03 21:49:12.481197 hours!
+[2023-12-03 21:49:22,493] WARNING in views: Accessing objects with User Id2023-12-03 21:49:22.493120 hours!
+[2023-12-03 21:49:22,520] WARNING in views: Error in fetching data from influx2023-12-03 21:49:22.520965 hours!
+[2023-12-03 21:49:58,562] WARNING in views: Accessing objects with User Id2023-12-03 21:49:58.562697 hours!
+[2023-12-03 21:49:58,600] WARNING in views: Error in fetching data from influx2023-12-03 21:49:58.600017 hours!
+[2023-12-03 21:50:09,403] WARNING in views: Accessing objects with User Id2023-12-03 21:50:09.403116 hours!
+[2023-12-03 21:50:09,431] WARNING in views: Error in fetching data from influx2023-12-03 21:50:09.431702 hours!
+[2023-12-03 21:50:19,524] WARNING in views: Accessing objects with User Id2023-12-03 21:50:19.524829 hours!
+[2023-12-03 21:50:19,558] WARNING in views: Error in fetching data from influx2023-12-03 21:50:19.557429 hours!
+[2023-12-03 21:50:29,420] WARNING in views: Accessing objects with User Id2023-12-03 21:50:29.420262 hours!
+[2023-12-03 21:50:29,460] WARNING in views: Error in fetching data from influx2023-12-03 21:50:29.460639 hours!
+[2023-12-03 21:50:38,586] WARNING in views: Accessing objects with User Id2023-12-03 21:50:38.586444 hours!
+[2023-12-03 21:50:38,671] WARNING in views: Error in fetching data from influx2023-12-03 21:50:38.671620 hours!
+[2023-12-03 21:50:48,567] WARNING in views: Accessing objects with User Id2023-12-03 21:50:48.567076 hours!
+[2023-12-03 21:50:48,597] WARNING in views: Error in fetching data from influx2023-12-03 21:50:48.597360 hours!
+[2023-12-03 21:59:19,887] WARNING in pusher_client: Killing Pusher at 2023-12-03 21:59:19.887950 hours!
+[2023-12-03 22:00:01,501] WARNING in pusher_client: Initialising Pusher 2023-12-03 22:00:01.501231 hours!
+Initialising Pusher 2023-12-03 22:00:01.501231 hours!
+[2023-12-03 22:18:40,642] WARNING in pusher_client: Killing Pusher at 2023-12-03 22:18:40.642370 hours!
+Killing Pusher at 2023-12-03 22:18:40.642370 hours!
+[2023-12-03 22:18:51,451] WARNING in pusher_client: Initialising Pusher 2023-12-03 22:18:51.443364 hours!
+Initialising Pusher 2023-12-03 22:18:51.443364 hours!
+[2023-12-03 22:28:59,455] WARNING in views: Accessing objects with User Id2023-12-03 22:28:59.455653 hours!
+Accessing objects with User Id2023-12-03 22:28:59.455653 hours!
+[2023-12-04 11:50:13,681] WARNING in pusher_client: Initialising Pusher 2023-12-04 11:50:13.681162 hours!
+[2023-12-04 12:01:39,468] WARNING in views: Accessing objects with User Id2023-12-04 12:01:39.467852 hours!
+[2023-12-04 12:01:39,721] WARNING in views: Error in fetching data from influx2023-12-04 12:01:39.721524 hours!

@@ -1,0 +1,136 @@
+[2023-06-18 13:09:32,691] WARNING in views: Accessing objects 2023-06-18 13:09:32.691237 hours!
+[2023-06-18 13:09:32,775] WARNING in myLogger: Attempt to writing data in logFileNames.txt file2023-06-18 13:09:32.775770 hours!
+[2023-06-18 13:09:33,373] WARNING in views: Error in fetching data from influx2023-06-18 13:09:33.373871 hours!
+[2023-06-18 13:11:53,745] WARNING in views: Accessing objects 2023-06-18 13:11:53.745579 hours!
+Accessing objects 2023-06-18 13:11:53.745579 hours!
+[2023-06-18 13:11:54,207] WARNING in views: Error in fetching data from influx2023-06-18 13:11:54.207973 hours!
+Error in fetching data from influx2023-06-18 13:11:54.207973 hours!
+[2023-06-18 13:13:27,652] WARNING in views: Accessing objects 2023-06-18 13:13:27.652937 hours!
+Accessing objects 2023-06-18 13:13:27.652937 hours!
+[2023-06-20 15:46:59,013] WARNING in pusherClient: Initialising Pusher 2023-06-20 15:46:59.013708 hours!
+Initialising Pusher 2023-06-20 15:46:59.013708 hours!
+[2023-06-20 16:01:08,846] WARNING in pusherClient: Killing Pusher at 2023-06-20 16:01:08.832166 hours!
+[2023-09-05 08:58:00,184] WARNING in pusherClient: Initialising Pusher 2023-09-05 08:58:00.184146 hours!
+[2023-09-05 09:11:49,017] WARNING in pusherClient: Killing Pusher at 2023-09-05 09:11:49.017322 hours!
+[2023-09-05 09:11:55,646] WARNING in pusherClient: Initialising Pusher 2023-09-05 09:11:55.646968 hours!
+Initialising Pusher 2023-09-05 09:11:55.646968 hours!
+[2023-09-05 09:17:02,227] WARNING in pusherClient: Killing Pusher at 2023-09-05 09:17:02.227105 hours!
+Killing Pusher at 2023-09-05 09:17:02.227105 hours!
+[2023-09-05 09:17:14,861] WARNING in pusherClient: Initialising Pusher 2023-09-05 09:17:14.861721 hours!
+Initialising Pusher 2023-09-05 09:17:14.861721 hours!
+[2023-09-05 09:18:07,557] WARNING in pusherClient: Killing Pusher at 2023-09-05 09:18:07.557256 hours!
+Killing Pusher at 2023-09-05 09:18:07.557256 hours!
+[2023-09-05 09:18:13,026] WARNING in pusherClient: Initialising Pusher 2023-09-05 09:18:13.026574 hours!
+Initialising Pusher 2023-09-05 09:18:13.026574 hours!
+[2023-09-05 09:19:47,894] WARNING in pusherClient: Killing Pusher at 2023-09-05 09:19:47.894416 hours!
+Killing Pusher at 2023-09-05 09:19:47.894416 hours!
+[2023-09-05 09:19:53,557] WARNING in pusherClient: Initialising Pusher 2023-09-05 09:19:53.557080 hours!
+Initialising Pusher 2023-09-05 09:19:53.557080 hours!
+[2023-09-05 09:20:41,203] WARNING in pusherClient: Killing Pusher at 2023-09-05 09:20:41.203054 hours!
+Killing Pusher at 2023-09-05 09:20:41.203054 hours!
+[2023-09-05 09:20:47,760] WARNING in pusherClient: Initialising Pusher 2023-09-05 09:20:47.760355 hours!
+Initialising Pusher 2023-09-05 09:20:47.760355 hours!
+[2023-09-05 09:23:18,878] WARNING in pusherClient: Killing Pusher at 2023-09-05 09:23:18.878248 hours!
+Killing Pusher at 2023-09-05 09:23:18.878248 hours!
+[2023-09-05 09:23:25,168] WARNING in pusherClient: Initialising Pusher 2023-09-05 09:23:25.168412 hours!
+Initialising Pusher 2023-09-05 09:23:25.168412 hours!
+[2023-09-05 10:29:33,424] WARNING in pusherClient: Killing Pusher at 2023-09-05 10:29:33.424004 hours!
+Killing Pusher at 2023-09-05 10:29:33.424004 hours!
+[2023-09-05 10:29:49,398] WARNING in pusherClient: Initialising Pusher 2023-09-05 10:29:49.398862 hours!
+Initialising Pusher 2023-09-05 10:29:49.398862 hours!
+[2023-09-05 10:34:13,049] WARNING in pusherClient: Killing Pusher at 2023-09-05 10:34:13.049021 hours!
+Killing Pusher at 2023-09-05 10:34:13.049021 hours!
+[2023-09-05 10:34:19,811] WARNING in pusherClient: Initialising Pusher 2023-09-05 10:34:19.811534 hours!
+Initialising Pusher 2023-09-05 10:34:19.811534 hours!
+[2023-09-05 11:15:43,343] WARNING in pusherClient: Killing Pusher at 2023-09-05 11:15:43.343475 hours!
+Killing Pusher at 2023-09-05 11:15:43.343475 hours!
+[2023-09-05 11:15:49,881] WARNING in pusherClient: Initialising Pusher 2023-09-05 11:15:49.881662 hours!
+Initialising Pusher 2023-09-05 11:15:49.881662 hours!
+[2023-09-05 11:15:51,716] WARNING in pusherClient: Killing Pusher at 2023-09-05 11:15:51.716875 hours!
+Killing Pusher at 2023-09-05 11:15:51.716875 hours!
+[2023-09-05 11:15:57,135] WARNING in pusherClient: Initialising Pusher 2023-09-05 11:15:57.135084 hours!
+Initialising Pusher 2023-09-05 11:15:57.135084 hours!
+[2023-09-05 11:33:37,349] WARNING in pusherClient: Killing Pusher at 2023-09-05 11:33:37.349831 hours!
+Killing Pusher at 2023-09-05 11:33:37.349831 hours!
+[2023-09-05 11:33:42,417] WARNING in pusherClient: Initialising Pusher 2023-09-05 11:33:42.416246 hours!
+Initialising Pusher 2023-09-05 11:33:42.416246 hours!
+[2023-09-05 11:33:44,310] WARNING in pusherClient: Killing Pusher at 2023-09-05 11:33:44.310054 hours!
+Killing Pusher at 2023-09-05 11:33:44.310054 hours!
+[2023-09-05 11:33:49,102] WARNING in pusherClient: Initialising Pusher 2023-09-05 11:33:49.102271 hours!
+Initialising Pusher 2023-09-05 11:33:49.102271 hours!
+[2023-09-05 11:34:17,209] WARNING in pusherClient: Killing Pusher at 2023-09-05 11:34:17.209344 hours!
+Killing Pusher at 2023-09-05 11:34:17.209344 hours!
+[2023-09-05 11:34:22,088] WARNING in pusherClient: Initialising Pusher 2023-09-05 11:34:22.088035 hours!
+Initialising Pusher 2023-09-05 11:34:22.088035 hours!
+[2023-09-05 11:34:26,013] WARNING in pusherClient: Killing Pusher at 2023-09-05 11:34:26.013288 hours!
+Killing Pusher at 2023-09-05 11:34:26.013288 hours!
+[2023-09-05 11:34:30,796] WARNING in pusherClient: Initialising Pusher 2023-09-05 11:34:30.796160 hours!
+Initialising Pusher 2023-09-05 11:34:30.796160 hours!
+[2023-09-05 11:34:44,352] WARNING in pusherClient: Killing Pusher at 2023-09-05 11:34:44.352945 hours!
+Killing Pusher at 2023-09-05 11:34:44.352945 hours!
+[2023-09-05 11:34:49,144] WARNING in pusherClient: Initialising Pusher 2023-09-05 11:34:49.144536 hours!
+Initialising Pusher 2023-09-05 11:34:49.144536 hours!
+[2023-09-05 11:34:50,771] WARNING in pusherClient: Killing Pusher at 2023-09-05 11:34:50.771350 hours!
+Killing Pusher at 2023-09-05 11:34:50.771350 hours!
+[2023-09-05 11:34:55,455] WARNING in pusherClient: Initialising Pusher 2023-09-05 11:34:55.455381 hours!
+Initialising Pusher 2023-09-05 11:34:55.455381 hours!
+[2023-09-05 11:34:59,341] WARNING in pusherClient: Killing Pusher at 2023-09-05 11:34:59.341287 hours!
+Killing Pusher at 2023-09-05 11:34:59.341287 hours!
+[2023-09-05 11:35:04,160] WARNING in pusherClient: Initialising Pusher 2023-09-05 11:35:04.160129 hours!
+Initialising Pusher 2023-09-05 11:35:04.160129 hours!
+[2023-09-05 11:38:04,548] WARNING in pusherClient: Killing Pusher at 2023-09-05 11:38:04.548965 hours!
+Killing Pusher at 2023-09-05 11:38:04.548965 hours!
+[2023-09-05 11:38:10,306] WARNING in pusherClient: Initialising Pusher 2023-09-05 11:38:10.306758 hours!
+Initialising Pusher 2023-09-05 11:38:10.306758 hours!
+[2023-09-05 11:38:47,171] WARNING in pusherClient: Killing Pusher at 2023-09-05 11:38:47.171361 hours!
+Killing Pusher at 2023-09-05 11:38:47.171361 hours!
+[2023-09-05 11:38:50,776] WARNING in pusherClient: Initialising Pusher 2023-09-05 11:38:50.776996 hours!
+Initialising Pusher 2023-09-05 11:38:50.776996 hours!
+[2023-09-05 11:40:23,228] WARNING in pusherClient: Killing Pusher at 2023-09-05 11:40:23.228622 hours!
+Killing Pusher at 2023-09-05 11:40:23.228622 hours!
+[2023-09-05 11:40:26,968] WARNING in pusherClient: Initialising Pusher 2023-09-05 11:40:26.968064 hours!
+Initialising Pusher 2023-09-05 11:40:26.968064 hours!
+[2023-09-05 11:48:31,221] WARNING in pusherClient: Killing Pusher at 2023-09-05 11:48:31.221768 hours!
+Killing Pusher at 2023-09-05 11:48:31.221768 hours!
+[2023-09-05 11:48:34,770] WARNING in pusherClient: Initialising Pusher 2023-09-05 11:48:34.770938 hours!
+Initialising Pusher 2023-09-05 11:48:34.770938 hours!
+[2023-09-05 11:48:34,933] WARNING in pusherClient: Killing Pusher at 2023-09-05 11:48:34.933619 hours!
+Killing Pusher at 2023-09-05 11:48:34.933619 hours!
+[2023-09-05 11:48:38,824] WARNING in pusherClient: Initialising Pusher 2023-09-05 11:48:38.824951 hours!
+Initialising Pusher 2023-09-05 11:48:38.824951 hours!
+[2023-09-05 11:48:40,448] WARNING in pusherClient: Killing Pusher at 2023-09-05 11:48:40.448397 hours!
+Killing Pusher at 2023-09-05 11:48:40.448397 hours!
+[2023-09-05 11:48:43,859] WARNING in pusherClient: Initialising Pusher 2023-09-05 11:48:43.859366 hours!
+Initialising Pusher 2023-09-05 11:48:43.859366 hours!
+[2023-09-05 11:49:54,446] WARNING in pusherClient: Killing Pusher at 2023-09-05 11:49:54.446175 hours!
+Killing Pusher at 2023-09-05 11:49:54.446175 hours!
+[2023-09-05 11:49:58,067] WARNING in pusherClient: Initialising Pusher 2023-09-05 11:49:58.067720 hours!
+Initialising Pusher 2023-09-05 11:49:58.067720 hours!
+[2023-09-05 11:49:58,144] WARNING in pusherClient: Killing Pusher at 2023-09-05 11:49:58.144347 hours!
+Killing Pusher at 2023-09-05 11:49:58.144347 hours!
+[2023-09-05 11:50:02,084] WARNING in pusherClient: Initialising Pusher 2023-09-05 11:50:02.084024 hours!
+Initialising Pusher 2023-09-05 11:50:02.084024 hours!
+[2023-09-05 11:52:41,727] WARNING in pusherClient: Killing Pusher at 2023-09-05 11:52:41.727722 hours!
+Killing Pusher at 2023-09-05 11:52:41.727722 hours!
+[2023-09-05 11:52:45,213] WARNING in pusherClient: Initialising Pusher 2023-09-05 11:52:45.213196 hours!
+Initialising Pusher 2023-09-05 11:52:45.213196 hours!
+[2023-09-05 11:52:50,000] WARNING in pusherClient: Killing Pusher at 2023-09-05 11:52:50.000437 hours!
+Killing Pusher at 2023-09-05 11:52:50.000437 hours!
+[2023-09-05 11:52:53,323] WARNING in pusherClient: Initialising Pusher 2023-09-05 11:52:53.323601 hours!
+Initialising Pusher 2023-09-05 11:52:53.323601 hours!
+[2023-09-05 12:16:32,442] WARNING in pusherClient: Killing Pusher at 2023-09-05 12:16:32.442167 hours!
+Killing Pusher at 2023-09-05 12:16:32.442167 hours!
+[2023-09-05 12:17:05,172] WARNING in pusherClient: Initialising Pusher 2023-09-05 12:17:05.172923 hours!
+Initialising Pusher 2023-09-05 12:17:05.172923 hours!
+[2023-09-05 12:17:07,415] WARNING in pusherClient: Killing Pusher at 2023-09-05 12:17:07.415042 hours!
+Killing Pusher at 2023-09-05 12:17:07.415042 hours!
+[2023-09-05 12:17:10,625] WARNING in pusherClient: Initialising Pusher 2023-09-05 12:17:10.625588 hours!
+Initialising Pusher 2023-09-05 12:17:10.625588 hours!
+[2023-09-05 12:17:13,282] WARNING in pusherClient: Killing Pusher at 2023-09-05 12:17:13.282133 hours!
+Killing Pusher at 2023-09-05 12:17:13.282133 hours!
+[2023-09-05 12:17:16,640] WARNING in pusherClient: Initialising Pusher 2023-09-05 12:17:16.640321 hours!
+Initialising Pusher 2023-09-05 12:17:16.640321 hours!
+[2023-09-05 12:17:21,341] WARNING in pusherClient: Killing Pusher at 2023-09-05 12:17:21.341337 hours!
+Killing Pusher at 2023-09-05 12:17:21.341337 hours!
+[2023-09-05 12:17:24,731] WARNING in pusherClient: Initialising Pusher 2023-09-05 12:17:24.731276 hours!
+Initialising Pusher 2023-09-05 12:17:24.731276 hours!

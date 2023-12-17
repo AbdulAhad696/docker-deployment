@@ -1,0 +1,84 @@
+Homepage was accessed at 2023-06-10 00:00:12.766282 hours!
+Homepage was accessed at 2023-06-10 00:00:16.571743 hours!
+Homepage was accessed at 2023-06-10 00:00:38.690157 hours!
+[2023-06-15 21:06:49,891] ERROR in settings: This is a test error
+[2023-06-15 21:07:10,612] ERROR in settings: This is a test error
+[2023-06-15 21:07:11,206] ERROR in settings: This is a test error
+[2023-06-15 21:08:12,996] ERROR in settings: This is a test error
+[2023-06-15 21:09:17,661] ERROR in settings: This is a test error
+[2023-06-15 21:09:19,985] ERROR in settings: This is a test error
+[2023-06-15 21:11:33,638] ERROR in settings: This is a test error
+[2023-06-15 21:11:39,151] ERROR in settings: This is a test error
+[2023-06-15 21:12:07,217] ERROR in settings: This is a test error
+[2023-06-15 21:12:12,892] ERROR in settings: This is a test error
+[2023-06-15 21:12:18,674] ERROR in settings: This is a test error
+[2023-06-15 21:21:03,169] ERROR in settings: This is a test error
+[2023-06-15 21:22:46,762] ERROR in settings: This is a test error
+[2023-06-15 21:22:51,232] ERROR in settings: This is a test error
+[2023-06-15 21:22:54,713] ERROR in settings: This is a test error
+[2023-06-15 21:23:58,099] ERROR in settings: This is a test error
+[2023-06-15 21:24:05,567] ERROR in settings: This is a test error
+[2023-06-15 21:24:09,922] ERROR in settings: This is a test error
+[2023-06-15 21:24:16,415] ERROR in settings: This is a test error
+[2023-06-15 21:24:22,895] ERROR in settings: This is a test error
+[2023-06-15 21:24:26,579] ERROR in settings: This is a test error
+Homepage was accessed at 2023-06-16 00:00:39.476406 hours!
+Homepage was accessed at 2023-06-16 00:00:46.155542 hours!
+Homepage was accessed at 2023-06-16 20:09:59.986655 hours!
+Homepage was accessed at 2023-06-16 20:10:06.372011 hours!
+Homepage was accessed at 2023-06-16 20:10:11.614378 hours!
+Homepage was accessed at 2023-06-16 20:34:48.098556 hours!
+[2023-06-16 20:45:20,630] WARNING in views: Count sent  2023-06-16 20:45:20.630122 hours!
+Count sent  2023-06-16 20:45:20.630122 hours!
+[2023-06-16 20:45:51,085] WARNING in views: Accessing objects 2023-06-16 20:45:51.085730 hours!
+Accessing objects 2023-06-16 20:45:51.085730 hours!
+[2023-06-16 20:46:48,125] WARNING in views: Accessing objects 2023-06-16 20:46:48.125094 hours!
+Accessing objects 2023-06-16 20:46:48.125094 hours!
+[2023-06-16 20:48:02,524] WARNING in views: Accessing objects 2023-06-16 20:48:02.524981 hours!
+Accessing objects 2023-06-16 20:48:02.524981 hours!
+[2023-06-16 20:48:03,916] WARNING in views: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'Date': 'Mon, 12 Jun 2023 09:18:51 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'trace-id': 'abcb8bdf04e68f50', 'trace-sampled': 'false', 'vary': 'Accept-Encoding', 'x-platform-error-code': 'not found', 'Strict-Transport-Security': 'max-age=15724800; includeSubDomains', 'X-Influxdb-Request-ID': '33b1970a8c274e53243211e06a1cf115', 'X-Influxdb-Build': 'Cloud'})
+HTTP response body: b'{"code":"not found","message":"failed to initialize execute state: could not find bucket \\"databucket\\""}'
+2023-06-16 20:48:03.916426 hours!
+(404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'Date': 'Mon, 12 Jun 2023 09:18:51 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'trace-id': 'abcb8bdf04e68f50', 'trace-sampled': 'false', 'vary': 'Accept-Encoding', 'x-platform-error-code': 'not found', 'Strict-Transport-Security': 'max-age=15724800; includeSubDomains', 'X-Influxdb-Request-ID': '33b1970a8c274e53243211e06a1cf115', 'X-Influxdb-Build': 'Cloud'})
+HTTP response body: b'{"code":"not found","message":"failed to initialize execute state: could not find bucket \\"databucket\\""}'
+2023-06-16 20:48:03.916426 hours!
+[2023-06-16 20:49:30,784] WARNING in views: Accessing objects 2023-06-16 20:49:30.784733 hours!
+Accessing objects 2023-06-16 20:49:30.784733 hours!
+[2023-06-16 20:56:23,863] WARNING in views: Accessing objects 2023-06-16 20:56:23.863645 hours!
+Accessing objects 2023-06-16 20:56:23.863645 hours!
+[2023-06-16 20:58:11,877] WARNING in views: Accessing objects 2023-06-16 20:58:11.877355 hours!
+Accessing objects 2023-06-16 20:58:11.877355 hours!
+[2023-06-16 20:58:24,920] WARNING in views: Accessing objects 2023-06-16 20:58:24.920273 hours!
+Accessing objects 2023-06-16 20:58:24.920273 hours!
+[2023-06-16 21:01:59,801] WARNING in views: Accessing objects 2023-06-16 21:01:59.801861 hours!
+Accessing objects 2023-06-16 21:01:59.801861 hours!
+[2023-06-16 21:03:46,167] WARNING in views: Accessing objects 2023-06-16 21:03:46.167561 hours!
+Accessing objects 2023-06-16 21:03:46.167561 hours!
+[2023-06-16 21:05:57,991] WARNING in views: Accessing objects 2023-06-16 21:05:57.991270 hours!
+Accessing objects 2023-06-16 21:05:57.991270 hours!
+[2023-06-16 21:06:42,235] WARNING in views: Accessing objects 2023-06-16 21:06:42.235030 hours!
+Accessing objects 2023-06-16 21:06:42.235030 hours!
+[2023-06-16 21:08:12,792] WARNING in views: Accessing objects 2023-06-16 21:08:12.792015 hours!
+Accessing objects 2023-06-16 21:08:12.792015 hours!
+[2023-06-16 21:09:48,745] WARNING in views: Accessing objects 2023-06-16 21:09:48.745290 hours!
+Accessing objects 2023-06-16 21:09:48.745290 hours!
+[2023-06-16 21:13:30,020] WARNING in views: Accessing objects 2023-06-16 21:13:30.020743 hours!
+Accessing objects 2023-06-16 21:13:30.020743 hours!
+[2023-06-16 21:14:06,691] WARNING in views: Accessing objects 2023-06-16 21:14:06.691386 hours!
+Accessing objects 2023-06-16 21:14:06.691386 hours!
+[2023-06-16 21:14:59,650] WARNING in views: Accessing objects 2023-06-16 21:14:59.650829 hours!
+Accessing objects 2023-06-16 21:14:59.650829 hours!
+[2023-06-16 21:15:17,382] WARNING in views: Accessing objects 2023-06-16 21:15:17.382516 hours!
+Accessing objects 2023-06-16 21:15:17.382516 hours!
+[2023-06-16 21:17:03,112] WARNING in views: Accessing objects 2023-06-16 21:17:03.112240 hours!
+Accessing objects 2023-06-16 21:17:03.112240 hours!
+[2023-06-15 12:58:29,390] WARNING in signUp: Attemp to post user data 2023-06-15 12:58:29.390781 hours!
+Attemp to post user data 2023-06-15 12:58:29.390781 hours!
+[2023-06-15 12:58:49,818] WARNING in signIn: Attempt to sign in user  2023-06-15 12:58:49.818948 hours!
+Attempt to sign in user  2023-06-15 12:58:49.818948 hours!
+[2023-06-15 12:59:00,530] WARNING in signIn: Attempt to sign in user  2023-06-15 12:59:00.530880 hours!
+Attempt to sign in user  2023-06-15 12:59:00.530880 hours!

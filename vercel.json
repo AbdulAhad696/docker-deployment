@@ -1,0 +1,14 @@
+{
+  "builds": [
+    {
+      "src": "smartNursingBackend/wsgi.py",
+      "use": "@vercel/python"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "smartNursingBackend/wsgi.py"
+    }
+  ]
+}

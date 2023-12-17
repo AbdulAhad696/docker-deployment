@@ -1,0 +1,1 @@
+from smartNursingBackend.signals import my_exception_handler
