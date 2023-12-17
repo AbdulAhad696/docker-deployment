@@ -109,7 +109,7 @@ DATABASES = {
         'NAME': 'SNP',
         'USER': 'AbdulAhad696',
         'PASSWORD': '5XKqf2njySNJ',
-        'HOST': 'django-backend-db-1',  # Replace with the name of your PostgreSQL container
+        'HOST': 'ep-morning-pine-88779808-pooler.ap-southeast-1.aws.neon.tech',  # Replace with the name of your PostgreSQL container
         'PORT': '5432',
         'OPTIONS': {'sslmode': 'require'},
     }
