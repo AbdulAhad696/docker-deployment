@@ -106,14 +106,15 @@ WSGI_APPLICATION = 'smartNursingBackend.wsgi.app'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': os.environ.get('DB_NAME'),
-        'USER': os.environ.get('DB_USER'),
-        'PASSWORD': os.environ.get('DB_PASSWORD'),
-        'HOST': os.environ.get('DB_HOST'),
-        'PORT': os.environ.get('DB_PORT'),
-        'OPTIONS': {'sslmode': os.environ.get('DB_SSLMODE')},
+        'NAME': 'SNP',
+        'USER': 'AbdulAhad696',
+        'PASSWORD': '5XKqf2njySNJ',
+        'HOST': 'django-backend-db-1',  # Replace with the name of your PostgreSQL container
+        'PORT': '5432',
+        'OPTIONS': {'sslmode': 'require'},
     }
 }
+
 
 REST_FRAMEWORK = {
 
